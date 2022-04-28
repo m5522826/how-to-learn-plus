@@ -1,0 +1,6 @@
+.table_theme_dark {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-content: space-between;
+}

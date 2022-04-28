@@ -1,0 +1,8 @@
+.resources__logo-strelka {
+  background-image: url(./resources-strelka.svg);
+}
+
+
+.resources__logo-strelka:hover {
+  opacity: 0.5;
+}

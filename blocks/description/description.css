@@ -1,0 +1,8 @@
+.description {
+  height: 100vh;
+  min-height: 300px;
+  max-height: 756px;
+  margin: 100px auto 0;
+  position: relative;
+  display: flex;
+}
