@@ -4,3 +4,7 @@
   background: center no-repeat;
   background-size: contain;
   }
+
+  .resources__logo:hover {
+    opacity: 0.5;
+  }

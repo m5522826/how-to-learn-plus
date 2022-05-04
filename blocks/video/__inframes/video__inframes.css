@@ -1,8 +1,0 @@
-.video__inframes {
-  display: flex;
-  align-content: flex-end;
-  justify-content: center;
-  margin: 0 auto 0;
-  position:  relative;
-  top: 40px;
-}

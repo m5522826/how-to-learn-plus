@@ -2,10 +2,11 @@
   z-index: 2;
   max-width: 730px;
   position: relative;
-  left: 64px;
   display: flex;
   align-items: center;
   line-height: 96px;
   font-size: 102px;
   font-weight: 700;
+  margin: 0;
+  padding-left: 64px;
 }

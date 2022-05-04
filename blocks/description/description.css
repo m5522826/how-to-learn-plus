@@ -1,8 +1,5 @@
 .description {
-  height: 100vh;
-  min-height: 300px;
-  max-height: 756px;
-  margin: 100px auto 0;
+  padding-top: 100px;
   position: relative;
   display: flex;
 }

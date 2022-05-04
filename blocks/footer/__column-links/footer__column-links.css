@@ -2,7 +2,14 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
+  margin: 0 0 16px;
   padding: 0;
   color: white;
   text-decoration: none;
+  list-style-type: none;
+
+}
+
+.footer__column-links:last-child {
+  margin-bottom: 0;
 }
