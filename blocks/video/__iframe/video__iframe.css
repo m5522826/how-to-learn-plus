@@ -3,4 +3,9 @@
   height: 316px;
   margin-right: 20px;
   z-index: 2;
+  border: 0;
+}
+
+.video__iframe:last-child {
+  margin-right: 0;
 }

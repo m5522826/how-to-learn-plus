@@ -1,6 +1,8 @@
-.footer__column_content_info {
+.footer__column_content_social {
   color: white;
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
+  display: flex;
+  flex-direction: column;
 }
